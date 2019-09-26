@@ -11,8 +11,9 @@
         <url>http://www.test.com</url>
     </organization>
     <build>
-	   <plugins>
 
+<plugins>
+<!--Added pull requests by outside user -->
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
