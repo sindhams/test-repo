@@ -13,8 +13,6 @@
     <build>
 
 <plugins>
-<!--Added pull requests by outside user -->
-<!--new checkin -->
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
