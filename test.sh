@@ -1,1 +1,2 @@
 echo "Testing"
+Testing merge
